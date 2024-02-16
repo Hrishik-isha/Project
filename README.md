@@ -1,2 +1,2 @@
-# Project
-Sentimental Analysis
+# Sentiment-Based Fake News Detection on Twitter
+This topic involves leveraging sentiment analysis techniques to identify potentially misleading or false information shared on Twitter. By analyzing the emotional tone of tweets, researchers aim to develop models that can distinguish between genuine and deceptive content, contributing to efforts to combat the spread of misinformation on social media platforms.
